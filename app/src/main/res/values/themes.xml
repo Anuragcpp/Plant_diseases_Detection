@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.AgroSoft" parent="Base.Theme.AgroSoft" />
+    
+    // custome theme for the application
+    <style name="splash_screen" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@drawable/plant_images_app</item>
+    </style>
 </resources>
